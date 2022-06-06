@@ -1,0 +1,3 @@
+sudo mv ~/michangarrito/dist /var/www/
+
+sudo mv /var/www/michangarrito ~/backups/“michangarrito_$(date +”%F”)”
